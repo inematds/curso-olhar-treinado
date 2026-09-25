@@ -1,0 +1,614 @@
+[
+  {
+    "titulo": "Escolha referências com uma pergunta",
+    "entrega": "selecionar três referências para estudar uma decisão",
+    "dor": "Uma coleção de imagens bonitas pode crescer sem ensinar uma decisão. Uma pergunta ajuda a selecionar referências que você consegue usar.",
+    "antes": "Guardar cinquenta imagens sem perguntar como a cor destaca o assunto.",
+    "depois": "Selecionar três referências para observar onde o amarelo aparece e como contrasta com o ambiente.",
+    "campos": [
+      "Pergunta: onde o amarelo destaca o assunto?",
+      "Selecionar: três referências que ajudam a responder",
+      "Registrar: uma pista visível por imagem"
+    ],
+    "passos": [
+      "Nas Notas ou no papel, escreva a pergunta do exemplo ou uma do seu trabalho.",
+      "Escolha três fotos próprias ou três detalhes da ilustração desta aula. Se usar a ilustração, identifique cada impressão pela cena.",
+      "Para cada referência, responda à pergunta escolhida. Se usar a pergunta do exemplo, anote onde o amarelo aparece. Aceite não evidente ou detalhe insuficiente, explicando a limitação."
+    ],
+    "molde": "Pergunta: onde o amarelo destaca o assunto?\nReferência 1: <foto ou impressão>. Pista: <cobertura, tecido, roupa>.\nReferência 2: <identificação>. Pista: <observação>.\nReferência 3: <identificação>. Pista: <observação>.",
+    "pronto": "três referências têm observação ou limite justificado",
+    "confira": "Não existe uma beleza universal que substitua o objetivo.",
+    "calma": "Sem fotos próprias agora, use as impressões na ilustração. Escreva o que consegue ver; marque detalhe insuficiente quando necessário.",
+    "q": "Uma imagem bonita não responde à pergunta do estudo. O que fazer?",
+    "opcoes": [
+      "Guardar como resposta principal",
+      "Deixar fora deste painel",
+      "Copiar todos os seus elementos"
+    ],
+    "correta": 1,
+    "observacao": "As quatro impressões mostram espaço, tecido, textura e pessoas. Cada uma pode responder a uma pergunta diferente.",
+    "tarefa": "Escolha referências com uma pergunta",
+    "resumo": [
+      "Pergunta: onde o amarelo destaca o assunto?",
+      "Selecionar: três referências que ajudam a responder",
+      "Não existe uma beleza universal que substitua o objetivo."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Selecionar três imagens para observar como a luz suave mostra tecidos e pessoas numa feira.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Registrar: uma pista visível por imagem",
+    "cartoes": [
+      [
+        "Uma imagem bonita não responde à pergunta do estudo. O que fazer?",
+        "Deixar fora deste painel"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Não existe uma beleza universal que substitua o objetivo."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "três referências têm observação ou limite justificado"
+      ]
+    ]
+  },
+  {
+    "titulo": "Separe o que vê do que interpreta",
+    "entrega": "registrar observações, interpretações e um padrão",
+    "dor": "Uma sensação não é a mesma coisa que uma evidência visível. Separar as duas evita transformar gosto pessoal em certeza sobre o público.",
+    "antes": "A fotografia prova que todas as pessoas sentirão calma.",
+    "depois": "A cena tem luz suave e poucos objetos. Isso pode sugerir calma para este projeto, mas continua sendo uma interpretação.",
+    "campos": [
+      "Observação: luz suave e cadeiras vazias",
+      "Interpretação: pode sugerir uma pausa",
+      "Padrão: procurar um sinal em mais de uma imagem"
+    ],
+    "passos": [
+      "Observe as duas fotos ilustradas nesta aula ou duas fotos próprias. Abra as Notas.",
+      "Para cada uma, escreva duas coisas visíveis e uma sensação possível. Separe as linhas com os rótulos vejo e interpreto.",
+      "Procure uma característica repetida. Anote também uma diferença para não tratar as imagens como idênticas."
+    ],
+    "molde": "Imagem A — vejo: <duas pistas>. Interpreto: <hipótese>.\nImagem B — vejo: <duas pistas>. Interpreto: <hipótese>.\nRepete: <sinal>. Difere: <sinal>.\nO que não posso concluir: <limite>.",
+    "pronto": "observação e interpretação aparecem em linhas separadas",
+    "confira": "Uma sensação proposta não é uma reação comprovada do público.",
+    "calma": "Comece por substantivos e cores: cadeira, tecido amarelo, fundo claro. Depois escreva a sensação como pode sugerir.",
+    "q": "Qual frase descreve algo visível, sem afirmar uma emoção?",
+    "opcoes": [
+      "Todo visitante vai se sentir acolhido",
+      "A cena tem duas cadeiras",
+      "Esta é a melhor estética possível"
+    ],
+    "correta": 1,
+    "observacao": "As cadeiras e o tecido são observáveis. A atmosfera atribuída à luz é uma interpretação para conferir no contexto.",
+    "tarefa": "Separe o que vê do que interpreta",
+    "resumo": [
+      "Observação: luz suave e cadeiras vazias",
+      "Interpretação: pode sugerir uma pausa",
+      "Uma sensação proposta não é uma reação comprovada do público."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: A cena tem luz suave e poucos objetos. Isso pode sugerir calma para este projeto, mas continua sendo uma interpretação.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Padrão: procurar um sinal em mais de uma imagem",
+    "cartoes": [
+      [
+        "Qual frase descreve algo visível, sem afirmar uma emoção?",
+        "A cena tem duas cadeiras"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Uma sensação proposta não é uma reação comprovada do público."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "observação e interpretação aparecem em linhas separadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Troque um adjetivo por escolhas visíveis",
+    "entrega": "criar uma foto ou desenho a partir de três decisões",
+    "dor": "Adjetivos amplos podem orientar direções diferentes. Traduzir a intenção em luz, cor e posição permite fazer e conferir um estudo.",
+    "antes": "Quero uma imagem acolhedora, sem explicar o que isso significa.",
+    "depois": "Usar luz de janela, tecido ocre e duas cadeiras próximas. Fotografar e conferir se as três decisões aparecem.",
+    "campos": [
+      "Intenção: acolher visitantes",
+      "Escolhas: luz suave, cor quente e proximidade",
+      "Estudo: uma foto própria e uma observação"
+    ],
+    "passos": [
+      "Escolha um adjetivo para uma imagem do seu trabalho. Traduza em três escolhas de luz, cor ou composição nas Notas.",
+      "Fotografe uma composição simples perto de uma janela. Se não puder, desenhe no papel objeto, origem da luz e sombra. Identifique o método que usou.",
+      "Compare a foto ou desenho com as três escolhas. Registre qual apareceu e qual precisa de ajuste. Guarde estudo e ficha juntos."
+    ],
+    "molde": "Intenção: <adjetivo>.\nLuz: <escolha>. Cor: <escolha>. Composição: <escolha>.\nEstudo: <foto na galeria ou desenho no papel>.\nApareceu: <evidência>. Revisar: <decisão>.",
+    "pronto": "uma foto ou desenho foi comparado às três escolhas",
+    "confira": "A tradução do adjetivo é uma hipótese, não uma fórmula universal.",
+    "calma": "Sem poder fotografar agora, desenhe a composição e registre estudo em desenho. Não descreva como foto uma imagem que ainda não fez.",
+    "q": "Qual pedido permite conferir a intenção acolhedora?",
+    "opcoes": [
+      "Acolhedor e incrível de verdade",
+      "Luz suave, ocre e cadeiras próximas",
+      "A melhor imagem que você imaginar"
+    ],
+    "correta": 1,
+    "observacao": "A janela, o tecido e a posição das cadeiras tornam a intenção concreta. Observe uma decisão de cada vez.",
+    "tarefa": "Troque um adjetivo por escolhas visíveis",
+    "resumo": [
+      "Intenção: acolher visitantes",
+      "Escolhas: luz suave, cor quente e proximidade",
+      "A tradução do adjetivo é uma hipótese, não uma fórmula universal."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Usar luz de janela, tecido ocre e duas cadeiras próximas. Fotografar e conferir se as três decisões aparecem.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Estudo: uma foto própria e uma observação",
+    "cartoes": [
+      [
+        "Qual pedido permite conferir a intenção acolhedora?",
+        "Luz suave, ocre e cadeiras próximas"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "A tradução do adjetivo é uma hipótese, não uma fórmula universal."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "uma foto ou desenho foi comparado às três escolhas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Compare direções minimalista e editorial",
+    "entrega": "comparar duas direções pelo espaço e pela hierarquia",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Minimalista é sempre melhor; editorial precisa ter muita coisa.",
+    "depois": "A direção minimalista reduz elementos. A editorial organiza uma entrada marcante. Escolha pelo que a mensagem precisa comunicar.",
+    "campos": [
+      "Minimalista: poucos elementos e espaço amplo",
+      "Editorial: composição e escala orientam a leitura",
+      "Objetivo comum: destacar a feira sem inventar informações"
+    ],
+    "passos": [
+      "Observe os dois estudos ilustrados: um com espaço amplo e outro com recorte mais intenso.",
+      "Nas Notas, registre onde seu olhar entra em cada composição. Cite tamanho, contraste ou espaço como pista.",
+      "Escolha uma direção para anunciar uma feira tranquila. Justifique e escreva quando a outra opção seria útil."
+    ],
+    "molde": "Objetivo: anunciar uma feira tranquila.\nEstudo com espaço amplo: olhar começa em <elemento>; pista <qual>.\nEstudo de recorte intenso: olhar começa em <elemento>; pista <qual>.\nEscolha: <direção + motivo>. Outra opção serviria para <uso>.",
+    "pronto": "duas direções foram comparadas com uma escolha justificada",
+    "confira": "As famílias são um mapa de estudo, não caixas rígidas.",
+    "calma": "Não precisa acertar um nome. Descreva primeiro o espaço, o tamanho dos elementos e o contraste.",
+    "q": "Qual critério orienta a escolha entre duas direções válidas?",
+    "opcoes": [
+      "O nome mais sofisticado",
+      "O objetivo da peça",
+      "Uma regra universal de beleza"
+    ],
+    "correta": 1,
+    "observacao": "Compare o espaço vazio e a escala da cobertura. Os dois estudos são opções válidas para objetivos diferentes.",
+    "tarefa": "Compare direções minimalista e editorial",
+    "resumo": [
+      "Minimalista: poucos elementos e espaço amplo",
+      "Editorial: composição e escala orientam a leitura",
+      "As famílias são um mapa de estudo, não caixas rígidas."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: A direção minimalista reduz elementos. A editorial organiza uma entrada marcante. Escolha pelo que a mensagem precisa comunicar.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Objetivo comum: destacar a feira sem inventar informações",
+    "cartoes": [
+      [
+        "Qual critério orienta a escolha entre duas direções válidas?",
+        "O objetivo da peça"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "As famílias são um mapa de estudo, não caixas rígidas."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "duas direções foram comparadas com uma escolha justificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Reconheça sinais de quatro estéticas",
+    "entrega": "associar quatro estudos a pistas observáveis",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Basta escrever cinematográfico para obter uma narrativa precisa.",
+    "depois": "Descrever profundidade, contraste e situação. Para outra direção, escolher textura de impressão, luz direta ou relações de sonho.",
+    "campos": [
+      "Cinematográfica: profundidade e situação que sugere história",
+      "Onírica: relações de sonho; retrô: sinais de outra época",
+      "Crua: textura marcada e acabamento direto"
+    ],
+    "passos": [
+      "Observe os quatro cartões ilustrados. No papel, desenhe quatro caixas para anotar sua leitura: cinematográfica, onírica, retrô e crua.",
+      "Em cada caixa, registre uma pista visível: profundidade, relação impossível, desgaste de impressão ou luz direta. Não invente pistas escondidas.",
+      "Escolha uma para um estudo da feira. Escreva uma decisão a usar e outra a evitar para manter a mensagem clara."
+    ],
+    "molde": "Cinematográfica → pista <qual>.\nOnírica → pista <qual>.\nRetrô → pista <qual>.\nCrua → pista <qual>.\nMeu estudo: <direção>. Usar <decisão>. Evitar <decisão>.",
+    "pronto": "quatro direções têm pistas ou não evidente justificado; uma foi escolhida para o estudo",
+    "confira": "Um mesmo trabalho pode combinar sinais de várias famílias.",
+    "calma": "Onírica quer dizer linguagem de sonho. Se não encontrar uma pista numa ilustração, registre não evidente em vez de adivinhar.",
+    "q": "Uma imagem tem desgaste de impressão e cores desbotadas. Que hipótese faz sentido?",
+    "opcoes": [
+      "Retrô, com justificativa",
+      "Futurista por regra obrigatória",
+      "Nenhuma leitura é possível"
+    ],
+    "correta": 0,
+    "observacao": "Os quatro cartões variam luz, profundidade, textura e relação com a realidade. Nomeie a pista antes da estética.",
+    "tarefa": "Reconheça sinais de quatro estéticas",
+    "resumo": [
+      "Cinematográfica: profundidade e situação que sugere história",
+      "Onírica: relações de sonho; retrô: sinais de outra época",
+      "Um mesmo trabalho pode combinar sinais de várias famílias."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Descrever profundidade, contraste e situação. Para outra direção, escolher textura de impressão, luz direta ou relações de sonho.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Crua: textura marcada e acabamento direto",
+    "cartoes": [
+      [
+        "Uma imagem tem desgaste de impressão e cores desbotadas. Que hipótese faz sentido?",
+        "Retrô, com justificativa"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Um mesmo trabalho pode combinar sinais de várias famílias."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "quatro direções têm pistas ou não evidente justificado; uma foi escolhida para o estudo"
+      ]
+    ]
+  },
+  {
+    "titulo": "Misture estilos com uma prioridade",
+    "entrega": "escrever uma direção híbrida com base e acento",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Cinematográfico, retrô, futurista, minimalista e dramático, tudo no máximo.",
+    "depois": "Usar estrutura minimalista e um acento luminoso discreto. O produto da comunicação continua sendo a feira, não o efeito.",
+    "campos": [
+      "Base: composição limpa e poucos elementos",
+      "Acento: uma linha luminosa discreta",
+      "Limite: manter a cobertura amarela como assunto"
+    ],
+    "passos": [
+      "Escolha uma base entre as famílias estudadas. Se pulou as aulas, use minimalista: poucos elementos e espaço amplo.",
+      "Escolha um único acento de outra família. Nas Notas, diga onde entra e quanto espaço ocupa.",
+      "Desenhe a composição em um retângulo. Confira se a base ainda organiza o todo e o acento não esconde o assunto."
+    ],
+    "molde": "Objetivo: destacar a feira Bairro Vivo.\nBase: poucos elementos e espaço creme amplo.\nAcento: uma linha azul-esverdeada luminosa.\nAssunto: cobertura amarela.\nLimite: o acento não cobre o assunto nem ocupa o fundo inteiro.",
+    "pronto": "um desenho tem base, acento e limite claros",
+    "confira": "Uma mistura funciona melhor quando você explica o papel de cada parte.",
+    "calma": "Se o efeito domina tudo, reduza área ou intensidade. O nome híbrido não obriga a usar metade de cada estilo.",
+    "q": "A linha luminosa esconde a cobertura da feira. O que ajustar?",
+    "opcoes": [
+      "Aumentar todos os efeitos",
+      "Reduzir o acento",
+      "Trocar o objetivo sem registrar"
+    ],
+    "correta": 1,
+    "observacao": "A ilustração mostra uma base geométrica com cobertura amarela. A linha luminosa é uma proposta do exercício: imagine ou desenhe esse acento sem tratar como algo já visível.",
+    "tarefa": "Misture estilos com uma prioridade",
+    "resumo": [
+      "Base: composição limpa e poucos elementos",
+      "Acento: uma linha luminosa discreta",
+      "Uma mistura funciona melhor quando você explica o papel de cada parte."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Usar estrutura minimalista e um acento luminoso discreto. O produto da comunicação continua sendo a feira, não o efeito.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Limite: manter a cobertura amarela como assunto",
+    "cartoes": [
+      [
+        "A linha luminosa esconde a cobertura da feira. O que ajustar?",
+        "Reduzir o acento"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Uma mistura funciona melhor quando você explica o papel de cada parte."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "um desenho tem base, acento e limite claros"
+      ]
+    ]
+  },
+  {
+    "titulo": "Anote o caminho do seu olhar",
+    "entrega": "registrar uma hipótese de leitura e uma aplicação",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Este painel é lindo; não sei explicar por quê.",
+    "depois": "Meu olhar entra na cobertura clara, passa pela cadeira e termina na planta. Vou usar um elemento dominante e um apoio discreto.",
+    "campos": [
+      "Entrada: elemento que você percebe primeiro",
+      "Apoio: o segundo ponto de atenção",
+      "Aplicação: uma decisão para outra peça"
+    ],
+    "passos": [
+      "Para observar sem influência, prefira uma foto própria ainda não analisada. Olhe por cinco segundos e anote o primeiro elemento. Na ilustração, considere só a foto dentro do painel.",
+      "Registre segundo e terceiro pontos. Explique cada um com contraste, tamanho, direção ou proximidade.",
+      "Escreva uma aplicação: o que manteria numa imagem nova? Use o molde como exemplo, mas preserve sua observação real."
+    ],
+    "molde": "Primeiro vejo: <elemento + pista>.\nDepois: <elemento + pista>.\nPor fim: <elemento + pista>.\nHipótese: <percurso>.\nAplicação: <decisão para outra peça>.",
+    "pronto": "o percurso observado tem três pontos e uma aplicação",
+    "confira": "Seu percurso é uma hipótese, não uma medida de todos os leitores.",
+    "calma": "Se dois elementos disputarem atenção, registre a disputa. Isso já informa uma possível revisão.",
+    "q": "Duas pessoas olharam primeiro para partes diferentes. O que isso mostra?",
+    "opcoes": [
+      "Sua hipótese precisa de contexto",
+      "Uma das pessoas viu errado",
+      "Toda hierarquia visual é inútil"
+    ],
+    "correta": 0,
+    "observacao": "As marcações já orientam o olhar para cobertura e cadeira. Para uma leitura espontânea, faça a prática com uma foto própria ainda não analisada.",
+    "tarefa": "Anote o caminho do seu olhar",
+    "resumo": [
+      "Entrada: elemento que você percebe primeiro",
+      "Apoio: o segundo ponto de atenção",
+      "Seu percurso é uma hipótese, não uma medida de todos os leitores."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Meu olhar entra na cobertura clara, passa pela cadeira e termina na planta. Vou usar um elemento dominante e um apoio discreto.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Aplicação: uma decisão para outra peça",
+    "cartoes": [
+      [
+        "Duas pessoas olharam primeiro para partes diferentes. O que isso mostra?",
+        "Sua hipótese precisa de contexto"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Seu percurso é uma hipótese, não uma medida de todos os leitores."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "o percurso observado tem três pontos e uma aplicação"
+      ]
+    ]
+  },
+  {
+    "titulo": "Dê uma função à cor e à textura",
+    "entrega": "descrever base, acento e acabamento numa composição",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Usar cinco cores fortes porque todas são favoritas.",
+    "depois": "Dar maior área ao creme, usar ocre no assunto e reservar um pequeno acento azul-esverdeado.",
+    "campos": [
+      "Base: área maior e discreta",
+      "Acento: área pequena que chama atenção",
+      "Textura: acabamento que combina com o objetivo"
+    ],
+    "passos": [
+      "No papel, desenhe três áreas: uma grande, uma média e uma pequena. Use palavras se não tiver lápis colorido.",
+      "Associe base, assunto e acento a essas áreas. Escolha uma textura: papel, tecido, metal ou outra observável.",
+      "Explique a relação com seu objetivo. Para a feira, mostre acolhimento sem deixar o acento esconder a informação principal."
+    ],
+    "molde": "Objetivo: <mensagem>.\nBase e área: <cor + grande>.\nAssunto: <cor + média>.\nAcento: <cor + pequena>.\nTextura: <acabamento>.\nJustificativa: <relação com o objetivo>.",
+    "pronto": "as cores têm funções e a textura tem justificativa",
+    "confira": "Uma cor muda de efeito conforme a área e os elementos vizinhos.",
+    "calma": "Sem ferramenta de cor, escreva creme grande, ocre médio e azul-esverdeado pequeno. A relação importa antes do código.",
+    "q": "Um acento pequeno passou a ocupar quase toda a página. O que revisar?",
+    "opcoes": [
+      "Sua função na composição",
+      "Só o nome escolhido para a cor",
+      "Nada, áreas nunca mudam atenção"
+    ],
+    "correta": 0,
+    "observacao": "O papel, o tecido e a pequena amostra colorida diferem em área e acabamento. Observe o papel de cada um.",
+    "tarefa": "Dê uma função à cor e à textura",
+    "resumo": [
+      "Base: área maior e discreta",
+      "Acento: área pequena que chama atenção",
+      "Uma cor muda de efeito conforme a área e os elementos vizinhos."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Dar maior área ao creme, usar ocre no assunto e reservar um pequeno acento azul-esverdeado.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Textura: acabamento que combina com o objetivo",
+    "cartoes": [
+      [
+        "Um acento pequeno passou a ocupar quase toda a página. O que revisar?",
+        "Sua função na composição"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Uma cor muda de efeito conforme a área e os elementos vizinhos."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "as cores têm funções e a textura tem justificativa"
+      ]
+    ]
+  },
+  {
+    "titulo": "Estude uma técnica em outro assunto",
+    "entrega": "produzir um estudo próprio e cinco regras com limites",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Copiar a composição inteira de uma obra e trocar apenas a assinatura.",
+    "depois": "Transferir a luz lateral para um objeto próprio. Escrever regras de uso, sem tratar o resultado como cópia da referência.",
+    "campos": [
+      "Estudo: transferir uma decisão para outro assunto",
+      "Regras: luz, espaço, contraste, textura e repetição",
+      "Limite: cada regra depende do projeto"
+    ],
+    "passos": [
+      "Coloque um objeto próprio com a janela ao lado dele. Procure um lado claro e outro em sombra. Fotografe ou desenhe essa relação para estudar luz lateral.",
+      "Nas Notas, escreva cinco regras curtas para sua comunicação. Use as cinco linhas do molde e acrescente um limite a cada uma.",
+      "Compare o estudo com uma regra. Registre a evidência e o que você mudou para criar outro assunto."
+    ],
+    "molde": "Exemplo: usar luz lateral quando quiser mostrar relevo; conferir se a textura ficou visível.\n1 Luz: usar <decisão> quando <condição>.\n2 Espaço: reservar <área> quando <condição>.\n3 Contraste: destacar <elemento> quando <condição>.\n4 Textura: usar <acabamento> quando <condição>.\n5 Repetição: manter <sinal> quando <condição>.\nMeu estudo: <foto/desenho>; evidência <observação>.",
+    "pronto": "um estudo próprio tem evidência e cinco regras com condições",
+    "confira": "Aprender uma técnica não exige reproduzir uma obra inteira.",
+    "calma": "Use regras simples: reservar espaço claro quando houver título. Uma condição concreta é mais útil que uma regra absoluta.",
+    "q": "Qual estudo transfere uma técnica em vez de copiar a obra inteira?",
+    "opcoes": [
+      "Mesma cena e mesmos elementos",
+      "Mesma luz em outro assunto",
+      "Mesma imagem com assinatura trocada"
+    ],
+    "correta": 1,
+    "observacao": "Os objetos mudam, mas a luz lateral continua sendo a decisão estudada. Compare sombra e volume.",
+    "tarefa": "Estude uma técnica em outro assunto",
+    "resumo": [
+      "Estudo: transferir uma decisão para outro assunto",
+      "Regras: luz, espaço, contraste, textura e repetição",
+      "Aprender uma técnica não exige reproduzir uma obra inteira."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Transferir a luz lateral para um objeto próprio. Escrever regras de uso, sem tratar o resultado como cópia da referência.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Limite: cada regra depende do projeto",
+    "cartoes": [
+      [
+        "Qual estudo transfere uma técnica em vez de copiar a obra inteira?",
+        "Mesma luz em outro assunto"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Aprender uma técnica não exige reproduzir uma obra inteira."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "um estudo próprio tem evidência e cinco regras com condições"
+      ]
+    ]
+  },
+  {
+    "titulo": "Compare três painéis pelo mesmo objetivo",
+    "entrega": "montar três direções e escolher uma com critérios",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Comparar um painel de comida com outro de máquinas sem objetivo comum.",
+    "depois": "Manter a feira Bairro Vivo como assunto. Comparar direção calma, acolhedora e enérgica pelo convite que cada uma sugere.",
+    "campos": [
+      "Objetivo: convidar famílias para um passeio calmo na feira",
+      "Três hipóteses: calma, acolhimento e energia",
+      "Escolha: assunto claro, clima adequado e espaço para mensagem"
+    ],
+    "passos": [
+      "Objetivo do exercício: convidar famílias para um passeio calmo na feira. Divida uma folha em três partes. Faça três desenhos ou reúna três fotos próprias para cada direção.",
+      "Identifique calma, acolhimento e energia. Anote luz, cor e composição de cada painel. Não invente data, local nem preço.",
+      "Escolha uma direção pelos três critérios da ficha. Registre um motivo e um limite, sem chamar a opção preferida de universalmente melhor."
+    ],
+    "molde": "Objetivo comum: convidar famílias para um passeio calmo numa feira de bairro.\nA Calma: luz <qual>; cor <qual>; composição <qual>.\nB Acolhimento: luz <qual>; cor <qual>; composição <qual>.\nC Energia: luz <qual>; cor <qual>; composição <qual>.\nEscolha: <A/B/C>. Critérios: assunto, clima, espaço para mensagem.\nMotivo e limite: <decisão>.",
+    "pronto": "três painéis existem e um foi escolhido com justificativa",
+    "confira": "Preferência pessoal participa, mas o objetivo também precisa ser atendido.",
+    "calma": "Sem imagens disponíveis, faça desenhos simples e use palavras para luz e cor. Identifique que são estudos, não fotografias finais.",
+    "q": "O painel preferido esconde o assunto. Qual decisão é mais útil?",
+    "opcoes": [
+      "Revisar a clareza do assunto",
+      "Aprovar só pela preferência",
+      "Mudar o nome do arquivo e entregar"
+    ],
+    "correta": 0,
+    "observacao": "Os três painéis abordam a mesma feira com intensidades diferentes. Compare cada proposta com o mesmo objetivo.",
+    "tarefa": "Compare três painéis pelo mesmo objetivo",
+    "resumo": [
+      "Objetivo: convidar famílias para um passeio calmo na feira",
+      "Três hipóteses: calma, acolhimento e energia",
+      "Preferência pessoal participa, mas o objetivo também precisa ser atendido."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Manter a feira Bairro Vivo como assunto. Comparar direção calma, acolhedora e enérgica pelo convite que cada uma sugere.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Escolha: assunto claro, clima adequado e espaço para mensagem",
+    "cartoes": [
+      [
+        "O painel preferido esconde o assunto. Qual decisão é mais útil?",
+        "Revisar a clareza do assunto"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Preferência pessoal participa, mas o objetivo também precisa ser atendido."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "três painéis existem e um foi escolhido com justificativa"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie três imagens com uma linguagem",
+    "entrega": "produzir uma pequena série e um vocabulário de dez decisões",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Três imagens sem relação, unidas apenas por um filtro.",
+    "depois": "Manter luz suave e cores quentes; variar espaço inteiro, detalhe e uso. Registrar dez palavras que possam ser apontadas nas imagens.",
+    "campos": [
+      "Série: espaço, detalhe e uso",
+      "Linguagem: repetir luz, paleta e acabamento",
+      "Vocabulário: dez escolhas que você consegue mostrar"
+    ],
+    "passos": [
+      "Escolha um ambiente próprio e um objeto, como mesa e caderno. Fotografe espaço inteiro, detalhe e uso mantendo a mesma luz. Pode desenhar as três cenas se não puder fotografar.",
+      "Nas Notas, registre dez termos observáveis distribuídos entre as três imagens, não dez em cada uma. Use a lista como exemplo e adapte ao que realmente vê.",
+      "Compare as três imagens. Registre uma repetição e uma diferença de função. Substitua qualquer termo sem evidência por outro observável até ter dez decisões distintas."
+    ],
+    "molde": "Exemplo de vocabulário: luz lateral; sombra suave; fundo claro; ocre; papel fosco; margem ampla; plano aberto; detalhe próximo; linhas simples; ponto dominante.\nMinha série: <três arquivos ou desenhos>.\nRepete: <decisão>. Varia: <função>.\nTermo sem evidência: <qual>. Substituição observável: <outro termo, sem repetir decisão>.",
+    "pronto": "existem três imagens ou desenhos e dez decisões observáveis",
+    "confira": "Coerência não exige repetir o mesmo enquadramento.",
+    "calma": "Na cena de uso, fotografe sua própria mão com o objeto. Não precisa organizar uma feira nem envolver outras pessoas.",
+    "q": "Três peças repetem luz e paleta, mas mostram funções diferentes. Isso pode ser coerente?",
+    "opcoes": [
+      "Sim, com intenção clara",
+      "Não, só cópias iguais servem",
+      "Só quando os nomes são iguais"
+    ],
+    "correta": 0,
+    "observacao": "O conjunto mostra espaço, tecido em detalhe e uso das cadeiras. A luz e a paleta aproximam as três imagens.",
+    "tarefa": "Crie três imagens com uma linguagem",
+    "resumo": [
+      "Série: espaço, detalhe e uso",
+      "Linguagem: repetir luz, paleta e acabamento",
+      "Coerência não exige repetir o mesmo enquadramento."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Manter luz suave e cores quentes; variar espaço inteiro, detalhe e uso. Registrar dez palavras que possam ser apontadas nas imagens.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Vocabulário: dez escolhas que você consegue mostrar",
+    "cartoes": [
+      [
+        "Três peças repetem luz e paleta, mas mostram funções diferentes. Isso pode ser coerente?",
+        "Sim, com intenção clara"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Coerência não exige repetir o mesmo enquadramento."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "existem três imagens ou desenhos e dez decisões observáveis"
+      ]
+    ]
+  },
+  {
+    "titulo": "Revise uma peça e guarde o aprendizado",
+    "entrega": "fazer uma revisão e registrar antes, depois e motivo",
+    "dor": "Uma escolha visual fica mais útil quando você consegue explicar o que observou. Nesta aula, transforme a impressão inicial numa decisão verificável.",
+    "antes": "Mudar tudo e dizer que a nova versão ficou melhor sem evidência.",
+    "depois": "Retirar um elemento que compete com o assunto. Comparar versões no mesmo tamanho e explicar a mudança.",
+    "campos": [
+      "Antes: localizar um problema relacionado ao objetivo",
+      "Depois: alterar uma decisão e conferir",
+      "Caderno: guardar evidência e próximo estudo"
+    ],
+    "passos": [
+      "Escolha uma foto ou desenho seu. Nas Notas, escreva um problema: assunto pequeno, excesso de elementos ou falta de espaço.",
+      "Na galeria, duplique a foto e use Editar > Recortar para reduzir uma distração. No papel, redesenhe a composição retirando um elemento. Preserve o original.",
+      "Compare as versões no mesmo tamanho. Escreva o que melhorou ou piorou, a regra aplicada e um próximo estudo de dez minutos."
+    ],
+    "molde": "Antes: <problema>.\nAlteração realizada: <uma decisão>.\nDepois: <evidência de melhora ou piora>.\nRegra aplicada: <qual e limite>.\nArquivos/desenhos: <identificação das duas versões>.\nPróximo estudo: <técnica + dez minutos>.",
+    "pronto": "uma revisão real tem antes, depois e uma conclusão",
+    "confira": "Se a revisão piorar o objetivo, manter o original é uma decisão válida.",
+    "calma": "Não encontrou Recortar? Faça a revisão em desenho no papel e guarde os dois. Registre o método realmente usado.",
+    "q": "A revisão ficou bonita, mas cortou informação necessária. O que fazer?",
+    "opcoes": [
+      "Manter a revisão sem conferir",
+      "Rever ou manter o original",
+      "Inventar uma justificativa de sucesso"
+    ],
+    "correta": 1,
+    "observacao": "A segunda composição reduz a disputa visual. Compare a clareza do assunto, não apenas a quantidade de elementos.",
+    "tarefa": "Revise uma peça e guarde o aprendizado",
+    "resumo": [
+      "Antes: localizar um problema relacionado ao objetivo",
+      "Depois: alterar uma decisão e conferir",
+      "Se a revisão piorar o objetivo, manter o original é uma decisão válida."
+    ],
+    "ex1": "André, fotógrafo, aplica esta escolha ao material da feira Bairro Vivo: Retirar um elemento que compete com o assunto. Comparar versões no mesmo tamanho e explicar a mudança.",
+    "ex2": "Marina, produtora cultural, anota antes de escolher: Caderno: guardar evidência e próximo estudo",
+    "cartoes": [
+      [
+        "A revisão ficou bonita, mas cortou informação necessária. O que fazer?",
+        "Rever ou manter o original"
+      ],
+      [
+        "Qual limite você precisa lembrar ao aplicar esta decisão?",
+        "Se a revisão piorar o objetivo, manter o original é uma decisão válida."
+      ],
+      [
+        "Como reconhecer a conclusão desta prática?",
+        "uma revisão real tem antes, depois e uma conclusão"
+      ]
+    ]
+  }
+]

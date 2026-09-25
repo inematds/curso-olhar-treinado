@@ -1,0 +1,51 @@
+{
+  "id": "olhar-treinado-v62",
+  "titulo": "Olhar Treinado v6.2 — Gosto Visual e Estéticas",
+  "titulo_html": "Treine seu <em>olhar</em>",
+  "curso_curto": "Olhar v6.2",
+  "kicker": "Olhar Treinado v6.2 · 4 módulos · 12 aulas",
+  "lead": "Transforme gosto em decisões que você consegue explicar. Observe referências, compare estéticas e produza estudos próprios com critérios claros.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Fotógrafo e produtora cultural observam referências visuais para uma feira de bairro.",
+  "rodape": "Olhar Treinado v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Observe, selecione e descreva",
+      "resumo": "Você vai transformar uma coleção de imagens em um painel que ensina decisões visuais.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Sete famílias estéticas, muitas possibilidades",
+      "resumo": "Você vai escolher uma direção pelo objetivo e descrevê-la sem depender de rótulos vagos.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Desmonte referências e construa regras próprias",
+      "resumo": "Você vai relacionar cada decisão visual a uma função e testar uma técnica em trabalho próprio.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Projeto final: sua direção visual em prática",
+      "resumo": "Você vai produzir três painéis, escolher uma linguagem e revisar uma peça com evidências.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    }
+  ]
+}

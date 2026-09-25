@@ -1,0 +1,234 @@
+{
+  "slug": "olhar-treinado",
+  "title": "Olhar Treinado",
+  "subtitle": "Gosto visual que vira decisão",
+  "description": "Aprenda a observar referências, reconhecer padrões e escolher uma estética com intenção. Transforme o que você vê em uma linguagem que consegue repetir.",
+  "hours": "2,5 h de estudo guiado + prática",
+  "project": "Três painéis de referências anotadas, dez palavras visuais, três imagens coerentes e a revisão de uma peça do seu portfólio.",
+  "modules": [
+    {
+      "title": "Observe, selecione e descreva",
+      "promise": "Você vai transformar uma coleção de imagens em um painel que ensina decisões visuais.",
+      "prompt": "Analise as referências que anexei. Para cada imagem, descreva apenas características visíveis de paleta, direção da luz, composição e textura. Separe observação de interpretação. Depois identifique três padrões recorrentes e proponha dez expressões concretas que eu possa usar para orientar imagens próprias. Não invente autoria, equipamento fotográfico nem intenção do criador. Se algo for incerto, indique a dúvida.",
+      "verify": "Este prompt é para um assistente que aceite imagens. Anexe referências próprias ou autorizadas. Confira cada observação na imagem; a análise automática pode errar.",
+      "topics": [
+        {
+          "title": "Gosto como conjunto de decisões",
+          "concept": "Gosto visual pode ser descrito pelas escolhas que você reconhece e repete: cor, luz, composição, textura e ritmo. Neste curso, treinamos a capacidade de observar e justificar essas escolhas, sem definir uma beleza universal.",
+          "why": "Dizer gostei ajuda a selecionar, mas não explica como produzir outra imagem. Uma observação concreta permite transformar preferência em uma decisão de trabalho.",
+          "practice": "Escolha uma imagem própria que funcione para você. Complete a frase: meu olhar vai primeiro para este elemento porque ele tem maior contraste, escala ou isolamento. Aponte a região, em vez de apenas dar um adjetivo.",
+          "caution": "Não trate preferência pessoal como regra para todos os públicos. O contexto e o objetivo podem pedir soluções diferentes.",
+          "visual": "hierarchy"
+        },
+        {
+          "title": "Curadoria: escolher com uma pergunta",
+          "concept": "Curadoria é selecionar referências por um propósito. Um painel para estudar luz lateral é diferente de uma coleção de imagens bonitas. A pergunta orienta o que entra e o que fica de fora.",
+          "why": "Um acervo enorme sem organização dificulta perceber padrões. Poucos exemplos bem anotados podem ser mais úteis para o exercício.",
+          "practice": "Comece com seis referências e uma pergunta, como onde a luz revela a textura. Registre a origem e a razão da escolha. Amplie o painel apenas se a nova imagem acrescentar uma decisão diferente.",
+          "caution": "Use fotografias próprias ou referências autorizadas. Se estiver estudando uma obra alheia, registre sua origem e escreva o que você observou.",
+          "visual": "references"
+        },
+        {
+          "title": "Observação e interpretação",
+          "concept": "Observação descreve o que está visível: fundo claro, objeto isolado, sombra curta. Interpretação propõe um significado: calma, familiaridade ou precisão. As duas são úteis, mas não são a mesma coisa.",
+          "why": "Separar os níveis evita apresentar impressões como fatos. Também torna possível discutir por que duas pessoas leem a mesma imagem de formas diferentes.",
+          "practice": "Faça duas colunas no caderno. Na primeira, liste três sinais visuais; na segunda, escreva a sensação que você associa a eles. Depois pergunte a outra pessoa o que ela percebe.",
+          "caution": "A cor azul não produz confiança em qualquer situação. Associações de cor e forma dependem de cultura, contexto, experiência e combinação com outros elementos.",
+          "visual": "compare"
+        },
+        {
+          "title": "Encontre padrões sem apagar diferenças",
+          "concept": "Padrão é uma recorrência entre referências: paleta reduzida, fonte lateral, planos fechados ou materiais foscos. Ele pode orientar uma linguagem comum sem exigir imagens idênticas.",
+          "why": "Identificar apenas o assunto — todas têm cartazes — não basta para entender estilo. Você precisa observar como cada assunto foi representado.",
+          "practice": "Marque dois ou três padrões no painel. Escreva também uma diferença importante entre as referências. Escolha o que deseja manter no seu projeto e o que não combina com o objetivo.",
+          "caution": "Não misture todas as características encontradas num único prompt. Se elas entram em conflito, crie direções separadas para comparar.",
+          "visual": "contact"
+        },
+        {
+          "title": "Traduza adjetivos em instruções",
+          "concept": "Vocabulário visual transforma expressões amplas em escolhas observáveis. Acolhedor pode virar luz suave de janela, tons terrosos e poucos objetos cotidianos; essa é uma hipótese de direção, não uma equivalência universal.",
+          "why": "Uma instrução concreta permite gerar e avaliar. Se você pede elegante sem definir sinais visuais, fica difícil dizer o que deve ser corrigido.",
+          "practice": "Escreva dez expressões que descrevam sua direção. Prefira fundo claro a bonito e sombra suave a luz maravilhosa. Aponte onde cada expressão aparece numa foto própria ou na ilustração desta aula.",
+          "caution": "Evite depender só do nome de um artista, marca ou estilo. Descreva os recursos que deseja estudar e produza uma composição própria.",
+          "visual": "layers"
+        },
+        {
+          "title": "Uma rotina curta de estudo",
+          "concept": "Um estudo visual é uma prática pequena focada em uma técnica. Pode ser reproduzir uma lógica de luz em outro objeto ou reorganizar uma composição mantendo o conteúdo.",
+          "why": "Repetir uma técnica com intenção ajuda a reconhecer suas consequências. Uma rotina precisa produzir observação e aplicação, não apenas mais imagens salvas.",
+          "practice": "Reserve quinze minutos: cinco para observar uma referência, cinco para descrever uma decisão e cinco para esboçar uma aplicação. Se a produção do estudo levar mais tempo, continue depois sem perder a pergunta inicial.",
+          "caution": "Não confunda velocidade com aprendizado. Termine com uma frase sobre o que percebeu e o que precisa testar novamente.",
+          "visual": "cycle"
+        }
+      ]
+    },
+    {
+      "title": "Sete famílias estéticas, muitas possibilidades",
+      "promise": "Você vai escolher uma direção pelo objetivo e descrevê-la sem depender de rótulos vagos.",
+      "prompt": "Crie uma imagem de uma cartaz ocre de alça oval sobre mesa clara. Direção visual minimalista: poucos elementos, fundo creme uniforme, luz suave lateral e espaço negativo amplo. Preserve o produto inteiro e um ponto de atenção principal. Depois de avaliar esta versão, farei outra geração alterando somente a direção visual para retrô, com paleta terrosa e composição inspirada em impressos antigos. Gere apenas a primeira imagem agora, sem texto.",
+      "verify": "Produza as duas versões separadamente. Compare paleta, luz, composição e textura. Não atribua diferenças apenas ao rótulo do estilo: registre tudo que mudou.",
+      "topics": [
+        {
+          "title": "Estética é uma combinação de sinais",
+          "concept": "Estética é a linguagem formada por escolhas de cor, luz, composição, textura e forma. As sete famílias deste módulo são um mapa de estudo: cinematográfica, minimalista, editorial, onírica, retrô, crua e futurista.",
+          "why": "Os nomes ajudam a conversar, mas não substituem a descrição. Duas imagens chamadas cinematográficas podem usar estratégias bem diferentes.",
+          "practice": "As aulas 4, 5 e 6 mostram as sete famílias em ilustrações. Observe as duas direções desta aula e identifique espaço e escala. Nas próximas, compare as demais sem tratar o mapa como regra absoluta.",
+          "caution": "Essa classificação não é exaustiva nem científica. Use-a como vocabulário flexível, sem tentar encaixar toda imagem numa categoria rígida.",
+          "visual": "palette"
+        },
+        {
+          "title": "Minimalista e editorial",
+          "concept": "Uma direção minimalista reduz elementos e destaca relações de espaço. Uma direção editorial pode explorar composição marcante, contraste de escala, figurino e tipografia. Nenhuma delas exige uma única paleta.",
+          "why": "Comparar as duas mostra que clareza e impacto podem vir de estratégias diferentes. O objetivo orienta a quantidade e o papel dos elementos.",
+          "practice": "Faça um esboço com produto isolado e outro com título grande e composição assimétrica. Mantenha a mesma informação. Compare qual funciona melhor como catálogo e qual como abertura de campanha.",
+          "caution": "Minimalismo não significa ausência de decisão; editorial não significa excesso. Cada elemento precisa contribuir para a leitura.",
+          "visual": "layout"
+        },
+        {
+          "title": "Cinematográfica e onírica",
+          "concept": "A linguagem cinematográfica pode usar profundidade, contraste e uma situação que sugere história. A onírica — de sonho — pode explorar transições suaves, baixa dureza de luz e relações menos literais entre elementos.",
+          "why": "As duas podem criar atmosfera, mas nem sempre são adequadas para mostrar detalhes de um produto. É preciso equilibrar sensação e legibilidade.",
+          "practice": "Observe os quatro cartões na ilustração desta aula. Compare profundidade, contraste e textura. Escreva uma direção com luz marcada e outra com luz difusa, que forma sombras suaves.",
+          "caution": "Desfoque ou névoa não são atalhos para qualidade. Se escondem um detalhe necessário ao resumo da encomenda, ajuste a intensidade ou escolha outra direção.",
+          "visual": "light"
+        },
+        {
+          "title": "Retrô e crua",
+          "concept": "Retrô remete a repertórios de outras épocas por cor, composição, tipografia ou acabamento. A linguagem crua pode usar contraste forte, texturas marcadas e enquadramentos menos polidos. São escolhas expressivas, não defeitos automáticos.",
+          "why": "Identificar o recurso específico evita transformar qualquer ruído em vintage ou qualquer sombra em intensidade. A referência precisa ser descrita com precisão.",
+          "practice": "Escolha uma característica por vez: paleta terrosa, impressão com poucas cores ou textura irregular. Aplique a outro assunto e observe se o efeito apoia a mensagem.",
+          "caution": "Não apresente sujeira ou baixa qualidade como prova de autenticidade. O acabamento deve continuar compatível com a função e a legibilidade.",
+          "visual": "texture"
+        },
+        {
+          "title": "Futurista e seus subestilos",
+          "concept": "Uma linguagem futurista pode combinar geometria, superfícies reflexivas, contraste luminoso ou organização técnica. Subestilo é uma direção mais específica dentro de um repertório amplo, como uma visão tecnológica sóbria ou uma cidade noturna saturada.",
+          "why": "O rótulo futuro não resolve a intenção. Uma campanha sobre precisão pode precisar de espaço e ordem; outra sobre ficção pode explorar densidade e estranhamento.",
+          "practice": "Descreva uma versão futurista da composição Bairro Vivo com três escolhas concretas. Defina o que permanece no produto e o que muda apenas no cenário. Compare com a direção original.",
+          "caution": "Não assuma que neon comunica inovação para todo público. Teste a leitura da peça e evite efeitos que escondam o assunto.",
+          "visual": "composition"
+        },
+        {
+          "title": "Misture estilos com uma hierarquia",
+          "concept": "Uma direção híbrida combina elementos de repertórios distintos. Ela fica mais legível quando um sistema organiza a composição e outro acrescenta um detalhe de linguagem.",
+          "why": "Misturar cinco rótulos no prompt pode gerar conflito. Escolher um estilo dominante e um elemento secundário permite observar o efeito da combinação.",
+          "practice": "Experimente composição minimalista com paleta retrô. Mantenha o espaço e a hierarquia; altere cores e um detalhe de acabamento. Escreva o que cada componente contribui.",
+          "caution": "Se o resultado ficar confuso, retire o elemento secundário e compare. Uma combinação não precisa ser mantida só porque parece original.",
+          "visual": "layers"
+        }
+      ]
+    },
+    {
+      "title": "Desmonte referências e construa regras próprias",
+      "promise": "Você vai relacionar cada decisão visual a uma função e testar uma técnica em trabalho próprio.",
+      "prompt": "Analise a imagem que anexei como um estudo de composição. Descreva: 1 o primeiro ponto de atenção; 2 os elementos que conduzem o olhar; 3 a distribuição de áreas claras e escuras; 4 a relação entre objeto e espaço vazio; 5 uma técnica que eu possa aplicar a uma imagem diferente. Separe sinais visíveis de hipóteses de interpretação. Não atribua intenção ao autor nem invente dados técnicos.",
+      "verify": "Confira se a análise aponta regiões realmente visíveis. Escolha apenas uma técnica e aplique a outro assunto, com composição e elementos próprios.",
+      "topics": [
+        {
+          "title": "Um painel anotado",
+          "concept": "Um painel anotado liga cada referência a uma observação e a uma aplicação. A legenda precisa dizer o que olhar e por que isso importa para o exercício.",
+          "why": "Sem anotação, o painel depende da memória. Com uma frase precisa, ele se torna uma ferramenta para decidir luz, enquadramento e acabamento.",
+          "practice": "Para uma foto própria ou a ilustração desta aula, escreva recurso, efeito e uso. Exemplo: cobertura amarela com maior contraste; assunto visível; útil para apresentar a feira.",
+          "caution": "Não use a legenda apenas para elogiar. Troque maravilhoso por uma descrição que outra pessoa consiga localizar na imagem.",
+          "visual": "references"
+        },
+        {
+          "title": "Siga o percurso do olhar",
+          "concept": "Percurso do olhar é uma hipótese sobre a ordem de atenção: elemento dominante, apoio e detalhe. Escala, contraste, direção de linhas e rostos podem influenciar essa leitura.",
+          "why": "Ao desenhar o percurso, você percebe se um detalhe secundário está competindo com a mensagem principal. A hipótese deve ser testada com observação, não tratada como certeza universal.",
+          "practice": "Olhe a referência por poucos segundos e anote o primeiro elemento percebido. Cubra a imagem e descreva o que lembra. Compare com o objetivo declarado da peça.",
+          "caution": "Uma seta desenhada no estudo não prova que todas as pessoas olharão nessa ordem. Use-a para explicar sua leitura e recolher outras interpretações.",
+          "visual": "hierarchy"
+        },
+        {
+          "title": "Observe cor por função",
+          "concept": "Uma cor pode funcionar como base, acento ou apoio. O efeito depende da área ocupada, dos vizinhos e do contraste. Uma pequena região de cor intensa pode chamar mais atenção do que uma grande área neutra.",
+          "why": "Analisar funções é mais útil do que copiar uma lista de códigos. Isso ajuda a transferir a lógica da referência para outra imagem.",
+          "practice": "Separe a paleta em base, acento e apoio. Estime qual ocupa mais área. Faça uma versão própria mantendo a relação entre papéis, sem copiar toda a composição.",
+          "caution": "Cores não garantem emoções específicas. Descreva a intenção e confira a leitura no contexto do projeto.",
+          "visual": "palette"
+        },
+        {
+          "title": "Textura, forma e coerência",
+          "concept": "Textura e forma podem reforçar ou contrariar a mensagem. Uma superfície irregular pode apoiar uma ideia artesanal; geometria precisa pode apoiar uma apresentação técnica. São hipóteses contextuais.",
+          "why": "Uma peça pode acumular sinais que apontam em direções diferentes. A revisão deve decidir se essa tensão é intencional ou distração.",
+          "practice": "Compare o papel claro e o tecido da ilustração. Descreva diferenças de superfície. Escolha um desses acabamentos para um estudo de cartaz da feira.",
+          "caution": "Não trate material visual como prova de origem ou processo de fabricação. Uma imagem gerada pode apenas sugerir essas características.",
+          "visual": "texture"
+        },
+        {
+          "title": "Estude uma técnica, não uma cópia inteira",
+          "concept": "Um estudo transfere uma decisão para um novo assunto: relação entre luz e volume, posição das áreas maiores ou uso de espaço. Você pode aprender a lógica sem reproduzir a obra inteira.",
+          "why": "Trocar só o nome do objeto em uma composição copiada limita o aprendizado. Separar a técnica ajuda a criar uma solução própria e explicar o raciocínio.",
+          "practice": "Escolha uma referência, escreva a técnica em uma frase e aplique a outro contexto. Mude assunto, arranjo e detalhes. Compare se o princípio continua funcionando.",
+          "caution": "Mantenha registro da referência e identifique estudos como estudos. Não apresente a obra de outra pessoa como criação própria.",
+          "visual": "compare"
+        },
+        {
+          "title": "Escreva cinco regras com limites",
+          "concept": "Regras pessoais são decisões úteis para um projeto, acompanhadas de condições de uso. Uma regra como preservar espaço para texto só faz sentido quando a peça terá texto.",
+          "why": "Regras com contexto ajudam a manter unidade sem engessar toda criação. Elas podem ser revisadas quando o objetivo mudar.",
+          "practice": "Escreva cinco regras no formato quando o objetivo for X, farei Y e verificarei Z. Inclua ao menos uma exceção. Teste as regras em uma nova imagem.",
+          "caution": "Evite frases absolutas como fundo limpo sempre é melhor. Um fundo contextual pode ser essencial para uma narrativa de uso.",
+          "visual": "checklist"
+        }
+      ]
+    },
+    {
+      "title": "Projeto final: sua direção visual em prática",
+      "promise": "Você vai produzir três painéis, escolher uma linguagem e revisar uma peça com evidências.",
+      "prompt": "Crie uma fotografia autoral de uma cartaz ocre de alça oval sobre mesa clara, para a marca fictícia Bairro Vivo. A direção escolhida combina composição minimalista e paleta terrosa: fundo creme, objeto no terço direito, luz suave de janela à esquerda, esmalte fosco e poucos elementos. Reserve espaço negativo à esquerda. Não inclua texto. Mantenha essa linguagem nas próximas duas imagens, variando apenas a função do enquadramento: detalhe do material e cena de uso.",
+      "verify": "Gere cada imagem separadamente e compare a série. Confira se as palavras visuais escolhidas aparecem nos resultados e se a função de cada peça é diferente.",
+      "topics": [
+        {
+          "title": "Três painéis, três hipóteses",
+          "concept": "Cada painel representa uma direção possível para o mesmo objetivo. Ao manter o resumo da encomenda, você consegue comparar soluções em vez de apenas coleções sem relação.",
+          "why": "Painéis diferentes mostram alternativas de linguagem antes de produzir todas as imagens. A escolha fica mais explícita e revisável.",
+          "practice": "Monte três painéis pequenos: um de clareza, um de atmosfera e um de expressão gráfica. Use imagens próprias ou referências autorizadas e anote as decisões de cada painel.",
+          "caution": "Não force a mesma quantidade de referências se isso reduzir a qualidade. O critério é que cada direção fique compreensível e tenha origem registrada.",
+          "visual": "contact"
+        },
+        {
+          "title": "Escolha uma direção pelo objetivo",
+          "concept": "A escolha cruza intenção, público, uso e recursos visuais. Preferência pessoal participa, mas não substitui o que a peça precisa comunicar.",
+          "why": "Uma direção pode ser interessante e inadequada para mostrar a forma do produto. Explicar a decisão evita escolher apenas pela novidade.",
+          "practice": "Compare os três painéis com o resumo da encomenda Bairro Vivo. Dê uma razão para escolher um e uma razão para rejeitar os outros neste projeto. Registre a hipótese de leitura que deseja testar.",
+          "caution": "Não declare um painel universalmente superior. A decisão vale para este objetivo e pode mudar em outro contexto.",
+          "visual": "brief"
+        },
+        {
+          "title": "Dez palavras que você consegue mostrar",
+          "concept": "Palavras visuais úteis apontam para propriedades observáveis. Elas formam um vocabulário de produção: plano aberto, luz lateral, fundo creme, textura fosca, margem ampla.",
+          "why": "Se você não consegue localizar uma palavra no resultado, talvez ela esteja vaga demais ou não tenha sido realizada. O vocabulário também serve à revisão.",
+          "practice": "Selecione dez expressões do painel escolhido. Organize por cor, luz, composição e material. Use-as no planejamento de um estudo e marque quais apareceram de fato.",
+          "caution": "Não acrescente sinônimos apenas para chegar a dez. Prefira decisões distintas e remova contradições antes de produzir o estudo.",
+          "visual": "layers"
+        },
+        {
+          "title": "Três imagens, uma linguagem",
+          "concept": "Uma série coerente mantém decisões de linguagem e varia o conteúdo com intenção. Na feira Bairro Vivo, use espaço inteiro, detalhe e uso. No seu estudo, pode escolher mesa, objeto e mão.",
+          "why": "A série é o teste de que o painel virou um sistema de decisões. Uma única imagem pode ter sido um acerto isolado.",
+          "practice": "Produza três peças com as mesmas referências de linguagem. Coloque lado a lado e confira paleta, luz e material. Anote uma diferença intencional e um desvio a corrigir.",
+          "caution": "Não confunda coerência com repetição exata. Cada imagem deve acrescentar informação ao conjunto.",
+          "visual": "contact"
+        },
+        {
+          "title": "Melhore uma peça e explique por quê",
+          "concept": "Uma revisão de portfólio aplica as regras a um trabalho existente. O antes/depois precisa revelar uma melhoria relacionada ao objetivo, como foco mais claro ou texto mais legível.",
+          "why": "A comparação mostra se a observação levou a uma decisão prática. Ela também ajuda a identificar quando a alteração foi apenas uma troca de gosto.",
+          "practice": "Escolha uma peça própria. Defina um problema e aplique uma regra do módulo anterior. Compare as duas versões em tamanho de uso e escreva a evidência de melhora ou a dúvida restante.",
+          "caution": "Se a revisão não resolveu o problema, registre isso e volte à hipótese. Não force uma narrativa de sucesso em todo experimento.",
+          "visual": "compare"
+        },
+        {
+          "title": "Mantenha uma prática de observação",
+          "concept": "Um caderno de estudos guarda referências, hipóteses, tentativas e conclusões. A continuidade vem de práticas pequenas que produzem decisões, não de uma sequência obrigatória de dias.",
+          "why": "Voltar a estudos antigos permite perceber mudanças no vocabulário e no julgamento. Também evita repetir os mesmos erros sem reconhecê-los.",
+          "practice": "Planeje três estudos futuros: um de luz, um de composição e um de cor. Para cada um, escolha pergunta, referência e aplicação. Exporte a jornada e guarde seus painéis junto dos arquivos.",
+          "caution": "Este curso não classifica pessoas em estilos fixos de aprendizagem. Os apoios visuais e a prática servem para tornar o conteúdo observável e verificável.",
+          "visual": "cycle"
+        }
+      ]
+    }
+  ]
+}
